@@ -34,10 +34,10 @@
 
 ```
 A look at the tech and tools I love working with, always exploring new ones!
-<div align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnextjs,react,ts,cs,py,go,cpp,docker,mongo,postgres,supabase,redis%26theme%3Ddark" alt="My Skills" />
-</a>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,git,bootstrap,docker,dotnet,mysql,supabase,html,css,tailwind,npm,nodejs" />
+  </a>
+</p>
 
 Always open to new ideas, collaborations, or a quick chat – feel free to reach out or connect on LinkedIn!
