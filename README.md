@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hey there, I'm Vaggelis!
 
-<!--
-**vaggelismpomponis/vaggelismpomponis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaggelis-bomponis)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaggelismpomponis)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Vaggelis Mpomponis",
+  "role": "Software Engineer",
+  "location": "Greece",
+  "tags": [
+    "Full Stack Developer",
+    "Open Source Enthusiast",
+    "Clean Code Advocate"
+  ],
+  "status": "💻 Building cool stuff",
+  
+  "description": "I’m a passionate developer who loves building scalable web applications. \
+  Always exploring new technologies and optimizing performance.",
+  
+  "current_focus": [
+    "Mastering Next.js & React",
+    "Building innovative side projects"
+  ],
+  
+  "technologies": {
+    "frontend": ["React", "Next.js", "Tailwind CSS"],
+    "backend": ["Node.js", "Express", "PostgreSQL"],
+    "languages": ["TypeScript", "JavaScript", "HTML/CSS"]
+  }
+}
